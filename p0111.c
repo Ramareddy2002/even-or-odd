@@ -3,11 +3,11 @@
 a=int(input('enter value')) 
 print(a) 
 if (a℅2=0):
-       print(number is even) 
-       print(u entered even number) 
+       print('number is even') 
+       print('u entered even number') 
 else :  
-       print(number is odd)
-       print(u entered odd number) 
+       print('number is odd')
+       print('u entered odd number') 
     
     
  '''
@@ -22,4 +22,5 @@ expected output
 enter value 9
 9
 number is odd
-u entered odd numt
+u entered odd number
+'''
