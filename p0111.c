@@ -1,4 +1,4 @@
-'''python program to given number is odd or not ven
+'''python program to given number is odd or not even'''
 
 a=int(input('enter value')) 
 print(a) 
